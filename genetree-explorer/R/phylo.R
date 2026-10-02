@@ -178,6 +178,10 @@ root_tree <- function(tree, outgroup_tip = NULL) {
 build_nj_tree <- function(pd, seq_type, bootstrap = 0L, outgroup_tip = NULL) {
   dm <- dist_for(pd, seq_type)
   tree <- phangorn::NJ(dm)
+  # NJ can emit tiny negative branches; ggtree refuses them. Set to zero.
+  if (!is.null(tree$edge.length)) {
+    tree$edge.length[tree$edge.length < 0] <- 0
+  }
   tree <- root_tree(tree, outgroup_tip)
   if (bootstrap > 0) {
     fun <- function(x) phangorn::NJ(dist_for(x, seq_type))

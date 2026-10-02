@@ -42,7 +42,7 @@ testthat::test_that("NJ protein tree has at least 3 tips", {
 testthat::test_that("CDS without a coding frame is refused", {
   cds <- Biostrings::DNAStringSet(c(
     a = "ATGAAATAG",
-    b = "ATGAAA"
+    b = "ATGAAAA"
   ))
   testthat::expect_error(translate_cds_or_stop(cds), "coding frame")
 })

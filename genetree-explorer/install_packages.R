@@ -47,6 +47,17 @@ pkgs <- c(
 
 BiocManager::install(pkgs, ask = FALSE, update = FALSE, Ncpus = max(1L, parallel::detectCores(logical = FALSE) - 1L))
 
+# Bioconductor 3.18 treeio can fail against current CRAN tidytree.
+# Retry ggtree/treeio from GitHub in that case (Windows binary Bioc installs
+# of a matching release usually do not need this).
+if (!requireNamespace("ggtree", quietly = TRUE)) {
+  if (!requireNamespace("remotes", quietly = TRUE)) {
+    install.packages("remotes")
+  }
+  try(remotes::install_github("YuLab-SMU/treeio", upgrade = "never"), silent = TRUE)
+  try(remotes::install_github("YuLab-SMU/ggtree", upgrade = "never"), silent = TRUE)
+}
+
 missing <- pkgs[!vapply(pkgs, requireNamespace, logical(1), quietly = TRUE)]
 if (length(missing)) {
   stop("These packages did not install: ", paste(missing, collapse = ", "))

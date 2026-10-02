@@ -112,9 +112,15 @@ Rscript tests/live_smoke.R
 
 ### Live NCBI smoke result
 
-Recorded during development (2 Oct 2026): see the “Live NCBI smoke” section
-at the bottom of this file. Re-run `tests/live_smoke.R` on the lab machine
-to refresh.
+Recorded **2 Oct 2026, 23:13 UTC** by `tests/live_smoke.R` (no API key):
+
+| Gene | Result | Notes |
+| --- | --- | --- |
+| `pax6` (Xenopus laevis, default species, protein, NJ, no bootstrap) | PASS | gene table 2 rows (`pax6.L`, `pax6.S`); tree with 7 tips |
+| `sox2` | PASS | 7 tips (code-bug check only) |
+| `shh` | PASS | 6 tips (`shh.L` only from NCBI for Xenopus) |
+
+Re-run `Rscript tests/live_smoke.R` on the lab machine to refresh. A down NCBI must not block using the app from fixtures/tests.
 
 ## v1 analysis path
 
