@@ -1,0 +1,205 @@
+{
+  "reports": [
+    {
+      "product": {
+        "gene_id": "5080",
+        "symbol": "PAX6",
+        "description": "paired box 6",
+        "tax_id": "9606",
+        "taxname": "Homo sapiens",
+        "common_name": "human",
+        "type": "PROTEIN_CODING",
+        "transcripts": [
+          {
+            "accession_version": "NM_000280.6",
+            "name": "transcript variant 1",
+            "length": 2701,
+            "type": "PROTEIN_CODING",
+            "cds": {
+              "accession_version": "NM_000280.6",
+              "range": [
+                {
+                  "begin": "525",
+                  "end": "1793",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "NP_000271.1",
+              "name": "paired box protein Pax-6",
+              "length": 422,
+              "isoform_name": "isoform a",
+              "ensembl_protein": "ENSP00000495109.1"
+            }
+          },
+          {
+            "accession_version": "NM_001127612.3",
+            "name": "transcript variant 3",
+            "length": 2646,
+            "type": "PROTEIN_CODING",
+            "cds": {
+              "accession_version": "NM_001127612.3",
+              "range": [
+                {
+                  "begin": "470",
+                  "end": "1738",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "NP_001121084.1",
+              "name": "paired box protein Pax-6",
+              "length": 422,
+              "isoform_name": "isoform a",
+              "ensembl_protein": "ENSP00000241001.8"
+            }
+          },
+          {
+            "accession_version": "NM_001258462.3",
+            "name": "transcript variant 4",
+            "length": 2688,
+            "type": "PROTEIN_CODING",
+            "cds": {
+              "accession_version": "NM_001258462.3",
+              "range": [
+                {
+                  "begin": "470",
+                  "end": "1780",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "NP_001245391.1",
+              "name": "paired box protein Pax-6",
+              "length": 436,
+              "isoform_name": "isoform b",
+              "ensembl_protein": "ENSP00000492315.2"
+            }
+          },
+          {
+            "accession_version": "NM_001258463.2",
+            "name": "transcript variant 5",
+            "length": 2646,
+            "type": "PROTEIN_CODING",
+            "cds": {
+              "accession_version": "NM_001258463.2",
+              "range": [
+                {
+                  "begin": "428",
+                  "end": "1738",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "NP_001245392.1",
+              "name": "paired box protein Pax-6",
+              "length": 436,
+              "isoform_name": "isoform b",
+              "ensembl_protein": "ENSP00000492476.1"
+            }
+          },
+          {
+            "accession_version": "NM_001258464.2",
+            "name": "transcript variant 6",
+            "length": 2603,
+            "type": "PROTEIN_CODING",
+            "cds": {
+              "accession_version": "NM_001258464.2",
+              "range": [
+                {
+                  "begin": "427",
+                  "end": "1695",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "NP_001245393.1",
+              "name": "paired box protein Pax-6",
+              "length": 422,
+              "isoform_name": "isoform a",
+              "ensembl_protein": "ENSP00000491295.1"
+            }
+          },
+          {
+            "accession_version": "NM_001258465.3",
+            "name": "transcript variant 7",
+            "length": 2599,
+            "type": "PROTEIN_CODING",
+            "cds": {
+              "accession_version": "NM_001258465.3",
+              "range": [
+                {
+                  "begin": "423",
+                  "end": "1691",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "NP_001245394.1",
+              "name": "paired box protein Pax-6",
+              "length": 422,
+              "isoform_name": "isoform a",
+              "ensembl_protein": "ENSP00000490963.1"
+            }
+          },
+          {
+            "accession_version": "NM_001310158.2",
+            "name": "transcript variant 8",
+            "length": 2590,
+            "type": "PROTEIN_CODING",
+            "cds": {
+              "accession_version": "NM_001310158.2",
+              "range": [
+                {
+                  "begin": "372",
+                  "end": "1682",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "NP_001297087.1",
+              "name": "paired box protein Pax-6",
+              "length": 436,
+              "isoform_name": "isoform b",
+              "ensembl_protein": "ENSP00000491872.1"
+            }
+          },
+          {
+            "accession_version": "NM_001310159.1",
+            "name": "transcript variant 9",
+            "length": 1411,
+            "type": "PROTEIN_CODING",
+            "cds": {
+              "accession_version": "NM_001310159.1",
+              "range": [
+                {
+                  "begin": "129",
+                  "end": "1334",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "NP_001297088.1",
+              "name": "paired box protein Pax-6",
+              "length": 401,
+              "isoform_name": "isoform c",
+              "ensembl_protein": "ENSP00000491679.1"
+            }
+          }
+        ]
+      },
+      "query": [
+        "5080"
+      ]
+    }
+  ],
+  "total_count": 1
+}

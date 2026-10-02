@@ -1,0 +1,106 @@
+{
+  "sci_name_and_ids": [
+    {
+      "sci_name": "Xenopus laevis",
+      "tax_id": "8355",
+      "common_name": "African clawed frog",
+      "matched_term": "Xenopus laevis",
+      "rank": "SPECIES",
+      "group_name": "frogs & toads"
+    },
+    {
+      "sci_name": "Xenopus gilli",
+      "tax_id": "228608",
+      "common_name": "Cape clawed frog",
+      "matched_term": "Xenopus laevis gilli",
+      "rank": "SPECIES",
+      "group_name": "frogs & toads"
+    },
+    {
+      "sci_name": "Xenopus borealis",
+      "tax_id": "8354",
+      "common_name": "Kenyan clawed frog",
+      "matched_term": "Xenopus laevis borealis",
+      "rank": "SPECIES",
+      "group_name": "frogs & toads"
+    },
+    {
+      "sci_name": "Xenopus petersii",
+      "tax_id": "288555",
+      "common_name": "Peter's clawed frog",
+      "matched_term": "Xenopus laevis petersi",
+      "rank": "SPECIES",
+      "group_name": "frogs & toads"
+    },
+    {
+      "sci_name": "Xenopus tropicalis",
+      "tax_id": "8364",
+      "common_name": "tropical clawed frog",
+      "matched_term": "Xenopus laevis tropicalis",
+      "rank": "SPECIES",
+      "group_name": "frogs & toads"
+    },
+    {
+      "sci_name": "Xenopus poweri",
+      "tax_id": "454605",
+      "matched_term": "Xenopus laevis poweri",
+      "rank": "SPECIES",
+      "group_name": "frogs & toads"
+    },
+    {
+      "sci_name": "Xenopus victorianus",
+      "tax_id": "288556",
+      "common_name": "Lake Victoria clawed frog",
+      "matched_term": "Xenopus laevis victorianus",
+      "rank": "SPECIES",
+      "group_name": "frogs & toads"
+    },
+    {
+      "sci_name": "Xenopus laevis endogenous retrovirus Xen1",
+      "tax_id": "204873",
+      "matched_term": "Xenopus laevis endogenous retrovirus Xen1",
+      "rank": "SPECIES",
+      "group_name": "viruses"
+    },
+    {
+      "sci_name": "Hymenochirus boettgeri",
+      "tax_id": "247094",
+      "common_name": "Congo dwarf clawed frog",
+      "matched_term": "Xenopus boettgeri",
+      "rank": "SPECIES",
+      "group_name": "frogs & toads"
+    },
+    {
+      "sci_name": "Xenopus epitropicalis",
+      "tax_id": "224340",
+      "common_name": "Cameroon clawed frog",
+      "matched_term": "Xenopus (Silurana) epitropicalis",
+      "rank": "SPECIES",
+      "group_name": "frogs & toads"
+    },
+    {
+      "sci_name": "Xenopus allofraseri",
+      "tax_id": "288535",
+      "common_name": "false Fraser's clawed frog",
+      "matched_term": "Xenopus sp. BOLD:AAH7186",
+      "rank": "SPECIES",
+      "group_name": "frogs & toads"
+    },
+    {
+      "sci_name": "Xenopus mellotropicalis",
+      "tax_id": "451443",
+      "common_name": "Gabonese clawed frog",
+      "matched_term": "Xenopus (Silurana) mellotropicalis",
+      "rank": "SPECIES",
+      "group_name": "frogs & toads"
+    },
+    {
+      "sci_name": "Xenopus calcaratus",
+      "tax_id": "451444",
+      "common_name": "Biafran clawed frog",
+      "matched_term": "Xenopus (Silurana) calcaratus",
+      "rank": "SPECIES",
+      "group_name": "frogs & toads"
+    }
+  ]
+}
