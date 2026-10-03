@@ -1,0 +1,69 @@
+{
+  "reports": [
+    {
+      "gene": {
+        "gene_id": "379100",
+        "symbol": "pax6.L",
+        "description": "paired box 6 L homeolog",
+        "tax_id": "8355",
+        "taxname": "Xenopus laevis",
+        "common_name": "African clawed frog",
+        "type": "PROTEIN_CODING",
+        "chromosomes": [
+          "4L"
+        ],
+        "synonyms": [
+          "an2",
+          "mgda",
+          "pax6",
+          "wagr",
+          "pax-6"
+        ],
+        "summary": [
+          {
+            "description": "Predicted to enable DNA-binding transcription factor activity, RNA polymerase II-specific and RNA polymerase II cis-regulatory region sequence-specific DNA binding activity. Acts upstream of or within with a positive effect on camera-type eye development. Predicted to be located in chromatin and nucleus. Is expressed in liver and biliary system; nervous system; and primary germ layer. Human ortholog(s) of this gene implicated in bilateral optic nerve hypoplasia; eye disease (multiple); glucose intolerance; and paranoid schizophrenia. Orthologous to human PAX6 (paired box 6). [provided by Alliance of Genome Resources, Jun 2026]"
+          }
+        ],
+        "ensembl_gene_ids": [
+          "ENSXLAG00005019802"
+        ]
+      },
+      "query": [
+        "pax6"
+      ]
+    },
+    {
+      "gene": {
+        "gene_id": "100337586",
+        "symbol": "pax6.S",
+        "description": "paired box 6 S homeolog",
+        "tax_id": "8355",
+        "taxname": "Xenopus laevis",
+        "common_name": "African clawed frog",
+        "type": "PROTEIN_CODING",
+        "chromosomes": [
+          "4S"
+        ],
+        "synonyms": [
+          "an2",
+          "mgda",
+          "pax6",
+          "wagr",
+          "Pax-6"
+        ],
+        "summary": [
+          {
+            "description": "Predicted to enable DNA-binding transcription factor activity, RNA polymerase II-specific and RNA polymerase II cis-regulatory region sequence-specific DNA binding activity. Predicted to act upstream of or within several processes, including camera-type eye development; pancreatic A cell development; and regulation of gene expression. Predicted to be located in chromatin and nucleus. Is expressed in ectoderm; nervous system; and visual system. Human ortholog(s) of this gene implicated in bilateral optic nerve hypoplasia; eye disease (multiple); glucose intolerance; and paranoid schizophrenia. Orthologous to human PAX6 (paired box 6). [provided by Alliance of Genome Resources, Jun 2026]"
+          }
+        ],
+        "ensembl_gene_ids": [
+          "ENSXLAG00005005408"
+        ]
+      },
+      "query": [
+        "pax6"
+      ]
+    }
+  ],
+  "total_count": 2
+}

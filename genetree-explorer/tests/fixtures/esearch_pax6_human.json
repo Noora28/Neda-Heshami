@@ -1,0 +1,31 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "1",
+    "retmax": "1",
+    "retstart": "0",
+    "idlist": [
+      "5080"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "pax6[sym]",
+        "field": "sym",
+        "count": "670",
+        "explode": "N"
+      },
+      {
+        "term": "9606[taxid]",
+        "field": "taxid",
+        "count": "360506",
+        "explode": "N"
+      },
+      "AND"
+    ],
+    "querytranslation": "pax6[sym] AND 9606[taxid]"
+  }
+}

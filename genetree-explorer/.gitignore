@@ -1,0 +1,11 @@
+.Renviron
+.RData
+.Rhistory
+.Rproj.user
+.Ruserdata
+*.Rproj
+rsconnect/
+*.png
+*.pdf
+.DS_Store
+Thumbs.db

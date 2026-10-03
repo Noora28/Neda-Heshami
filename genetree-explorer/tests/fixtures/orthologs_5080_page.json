@@ -1,0 +1,164 @@
+{
+  "reports": [
+    {
+      "gene": {
+        "gene_id": "18508",
+        "symbol": "Pax6",
+        "description": "paired box 6",
+        "tax_id": "10090",
+        "taxname": "Mus musculus",
+        "common_name": "house mouse",
+        "type": "PROTEIN_CODING",
+        "swiss_prot_accessions": [
+          "P63015"
+        ]
+      }
+    },
+    {
+      "gene": {
+        "gene_id": "5080",
+        "symbol": "PAX6",
+        "description": "paired box 6",
+        "tax_id": "9606",
+        "taxname": "Homo sapiens",
+        "common_name": "human",
+        "type": "PROTEIN_CODING",
+        "swiss_prot_accessions": [
+          "P26367"
+        ]
+      }
+    },
+    {
+      "gene": {
+        "gene_id": "30567",
+        "symbol": "pax6a",
+        "description": "paired box 6a",
+        "tax_id": "7955",
+        "taxname": "Danio rerio",
+        "common_name": "zebrafish",
+        "type": "PROTEIN_CODING",
+        "swiss_prot_accessions": [
+          "P26630"
+        ]
+      }
+    },
+    {
+      "gene": {
+        "gene_id": "395943",
+        "symbol": "PAX6",
+        "description": "paired box 6",
+        "tax_id": "9031",
+        "taxname": "Gallus gallus",
+        "common_name": "chicken",
+        "type": "PROTEIN_CODING",
+        "swiss_prot_accessions": [
+          "P47237"
+        ]
+      }
+    },
+    {
+      "gene": {
+        "gene_id": "448447",
+        "symbol": "pax6",
+        "description": "paired box 6",
+        "tax_id": "8364",
+        "taxname": "Xenopus tropicalis",
+        "common_name": "tropical clawed frog",
+        "type": "PROTEIN_CODING",
+        "swiss_prot_accessions": []
+      }
+    },
+    {
+      "gene": {
+        "gene_id": "25509",
+        "symbol": "Pax6",
+        "description": "paired box 6",
+        "tax_id": "10116",
+        "taxname": "Rattus norvegicus",
+        "common_name": "Norway rat",
+        "type": "PROTEIN_CODING",
+        "swiss_prot_accessions": [
+          "P63016"
+        ]
+      }
+    },
+    {
+      "gene": {
+        "gene_id": "286857",
+        "symbol": "PAX6",
+        "description": "paired box 6",
+        "tax_id": "9913",
+        "taxname": "Bos taurus",
+        "common_name": "domestic cattle",
+        "type": "PROTEIN_CODING",
+        "swiss_prot_accessions": [
+          "Q1LZF1"
+        ]
+      }
+    },
+    {
+      "gene": {
+        "gene_id": "103044317",
+        "symbol": "pax6a",
+        "description": "paired box 6a",
+        "tax_id": "7994",
+        "taxname": "Astyanax mexicanus",
+        "common_name": "Mexican tetra",
+        "type": "PROTEIN_CODING",
+        "swiss_prot_accessions": []
+      }
+    },
+    {
+      "gene": {
+        "gene_id": "695746",
+        "symbol": "PAX6",
+        "description": "paired box 6",
+        "tax_id": "9544",
+        "taxname": "Macaca mulatta",
+        "common_name": "Rhesus monkey",
+        "type": "PROTEIN_CODING",
+        "swiss_prot_accessions": []
+      }
+    },
+    {
+      "gene": {
+        "gene_id": "100009018",
+        "symbol": "PAX6",
+        "description": "paired box 6",
+        "tax_id": "9986",
+        "taxname": "Oryctolagus cuniculus",
+        "common_name": "rabbit",
+        "type": "PROTEIN_CODING",
+        "swiss_prot_accessions": []
+      }
+    },
+    {
+      "gene": {
+        "gene_id": "107314344",
+        "symbol": "PAX6",
+        "description": "paired box 6",
+        "tax_id": "93934",
+        "taxname": "Coturnix japonica",
+        "common_name": "Japanese quail",
+        "type": "PROTEIN_CODING",
+        "swiss_prot_accessions": [
+          "P47238"
+        ]
+      }
+    },
+    {
+      "gene": {
+        "gene_id": "737387",
+        "symbol": "PAX6",
+        "description": "paired box 6",
+        "tax_id": "9598",
+        "taxname": "Pan troglodytes",
+        "common_name": "chimpanzee",
+        "type": "PROTEIN_CODING",
+        "swiss_prot_accessions": []
+      }
+    }
+  ],
+  "total_count": 647,
+  "next_page_token": null
+}

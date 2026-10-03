@@ -1,0 +1,133 @@
+{
+  "reports": [
+    {
+      "product": {
+        "gene_id": "100337586",
+        "symbol": "pax6.S",
+        "description": "paired box 6 S homeolog",
+        "tax_id": "8355",
+        "taxname": "Xenopus laevis",
+        "common_name": "African clawed frog",
+        "type": "PROTEIN_CODING",
+        "transcripts": [
+          {
+            "accession_version": "NM_001172195.2",
+            "name": null,
+            "length": 1979,
+            "type": "PROTEIN_CODING",
+            "cds": {
+              "accession_version": "NM_001172195.2",
+              "range": [
+                {
+                  "begin": "366",
+                  "end": "1547",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "NP_001165666.1",
+              "name": "paired box protein Pax-6",
+              "length": 393,
+              "ensembl_protein": "ENSXLAP00005015987.1"
+            }
+          },
+          {
+            "accession_version": "XM_018259312.2",
+            "name": "transcript variant X1",
+            "length": 3075,
+            "type": "PROTEIN_CODING_MODEL",
+            "cds": {
+              "accession_version": "XM_018259312.2",
+              "range": [
+                {
+                  "begin": "560",
+                  "end": "1963",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "XP_018114801.1",
+              "name": "paired box protein Pax-6",
+              "length": 467,
+              "isoform_name": "isoform X1",
+              "ensembl_protein": "ENSXLAP00005015976.1"
+            }
+          },
+          {
+            "accession_version": "XM_018259314.2",
+            "name": "transcript variant X2",
+            "length": 3018,
+            "type": "PROTEIN_CODING_MODEL",
+            "cds": {
+              "accession_version": "XM_018259314.2",
+              "range": [
+                {
+                  "begin": "545",
+                  "end": "1906",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "XP_018114803.1",
+              "name": "paired box protein Pax-6",
+              "length": 453,
+              "isoform_name": "isoform X2",
+              "ensembl_protein": "ENSXLAP00005015983.1"
+            }
+          },
+          {
+            "accession_version": "XM_018259316.2",
+            "name": "transcript variant X3",
+            "length": 2929,
+            "type": "PROTEIN_CODING_MODEL",
+            "cds": {
+              "accession_version": "XM_018259316.2",
+              "range": [
+                {
+                  "begin": "565",
+                  "end": "1881",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "XP_018114805.1",
+              "name": "paired box protein Pax-6",
+              "length": 438,
+              "isoform_name": "isoform X3"
+            }
+          },
+          {
+            "accession_version": "XM_018259317.2",
+            "name": "transcript variant X4",
+            "length": 2870,
+            "type": "PROTEIN_CODING_MODEL",
+            "cds": {
+              "accession_version": "XM_018259317.2",
+              "range": [
+                {
+                  "begin": "548",
+                  "end": "1822",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "XP_018114806.1",
+              "name": "paired box protein Pax-6",
+              "length": 424,
+              "isoform_name": "isoform X4"
+            }
+          }
+        ]
+      },
+      "query": [
+        "100337586"
+      ]
+    }
+  ],
+  "total_count": 1
+}

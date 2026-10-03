@@ -1,0 +1,200 @@
+{
+  "reports": [
+    {
+      "product": {
+        "gene_id": "379100",
+        "symbol": "pax6.L",
+        "description": "paired box 6 L homeolog",
+        "tax_id": "8355",
+        "taxname": "Xenopus laevis",
+        "common_name": "African clawed frog",
+        "type": "PROTEIN_CODING",
+        "transcripts": [
+          {
+            "accession_version": "NM_001085944.1",
+            "name": null,
+            "length": 2264,
+            "type": "PROTEIN_CODING",
+            "cds": {
+              "accession_version": "NM_001085944.1",
+              "range": [
+                {
+                  "begin": "388",
+                  "end": "1749",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "NP_001079413.1",
+              "name": "paired box 6 L homeolog",
+              "length": 453,
+              "ensembl_protein": "ENSXLAP00005058323.1"
+            }
+          },
+          {
+            "accession_version": "XM_018256405.2",
+            "name": "transcript variant X1",
+            "length": 2807,
+            "type": "PROTEIN_CODING_MODEL",
+            "cds": {
+              "accession_version": "XM_018256405.2",
+              "range": [
+                {
+                  "begin": "507",
+                  "end": "1910",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "XP_018111894.1",
+              "name": "paired box 6 L homeolog",
+              "length": 467,
+              "isoform_name": "isoform X1"
+            }
+          },
+          {
+            "accession_version": "XM_018256406.2",
+            "name": "transcript variant X3",
+            "length": 2702,
+            "type": "PROTEIN_CODING_MODEL",
+            "cds": {
+              "accession_version": "XM_018256406.2",
+              "range": [
+                {
+                  "begin": "402",
+                  "end": "1805",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "XP_018111895.1",
+              "name": "paired box 6 L homeolog",
+              "length": 467,
+              "isoform_name": "isoform X1",
+              "ensembl_protein": "ENSXLAP00005058318.1"
+            }
+          },
+          {
+            "accession_version": "XM_018256407.2",
+            "name": "transcript variant X2",
+            "length": 2641,
+            "type": "PROTEIN_CODING_MODEL",
+            "cds": {
+              "accession_version": "XM_018256407.2",
+              "range": [
+                {
+                  "begin": "341",
+                  "end": "1744",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "XP_018111896.1",
+              "name": "paired box 6 L homeolog",
+              "length": 467,
+              "isoform_name": "isoform X1"
+            }
+          },
+          {
+            "accession_version": "XM_018256409.2",
+            "name": "transcript variant X6",
+            "length": 2656,
+            "type": "PROTEIN_CODING_MODEL",
+            "cds": {
+              "accession_version": "XM_018256409.2",
+              "range": [
+                {
+                  "begin": "507",
+                  "end": "1823",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "XP_018111898.1",
+              "name": "paired box 6 L homeolog",
+              "length": 438,
+              "isoform_name": "isoform X4"
+            }
+          },
+          {
+            "accession_version": "XM_018256410.2",
+            "name": "transcript variant X7",
+            "length": 2611,
+            "type": "PROTEIN_CODING_MODEL",
+            "cds": {
+              "accession_version": "XM_018256410.2",
+              "range": [
+                {
+                  "begin": "504",
+                  "end": "1778",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "XP_018111899.1",
+              "name": "paired box 6 L homeolog",
+              "length": 424,
+              "isoform_name": "isoform X5",
+              "ensembl_protein": "ENSXLAP00005058311.1"
+            }
+          },
+          {
+            "accession_version": "XM_041589125.1",
+            "name": "transcript variant X4",
+            "length": 2762,
+            "type": "PROTEIN_CODING_MODEL",
+            "cds": {
+              "accession_version": "XM_041589125.1",
+              "range": [
+                {
+                  "begin": "504",
+                  "end": "1865",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "XP_041445059.1",
+              "name": "paired box 6 L homeolog",
+              "length": 453,
+              "isoform_name": "isoform X2"
+            }
+          },
+          {
+            "accession_version": "XM_041589126.1",
+            "name": "transcript variant X5",
+            "length": 2393,
+            "type": "PROTEIN_CODING_MODEL",
+            "cds": {
+              "accession_version": "XM_041589126.1",
+              "range": [
+                {
+                  "begin": "141",
+                  "end": "1496",
+                  "orientation": "plus"
+                }
+              ]
+            },
+            "protein": {
+              "accession_version": "XP_041445060.1",
+              "name": "paired box 6 L homeolog",
+              "length": 451,
+              "isoform_name": "isoform X3",
+              "ensembl_protein": "ENSXLAP00005058297.1"
+            }
+          }
+        ]
+      },
+      "query": [
+        "379100"
+      ]
+    }
+  ],
+  "total_count": 1
+}

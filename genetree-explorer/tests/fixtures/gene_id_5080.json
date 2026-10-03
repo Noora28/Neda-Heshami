@@ -1,0 +1,38 @@
+{
+  "reports": [
+    {
+      "gene": {
+        "gene_id": "5080",
+        "symbol": "PAX6",
+        "description": "paired box 6",
+        "tax_id": "9606",
+        "taxname": "Homo sapiens",
+        "common_name": "human",
+        "type": "PROTEIN_CODING",
+        "chromosomes": [
+          "11"
+        ],
+        "summary": [
+          {
+            "description": "This gene encodes paired box protein Pax-6, one of many human homologs of the Drosophila melanogaster gene prd. In addition to a conserved paired box domain, a hallmark feature of this gene family, the encoded protein also contains a homeobox domain. Both domains are known to bind DNA and function as regulators of gene transcription. Activity of this protein is key in the development of neural tissues, particularly the eye. This gene is regulated by multiple enhancers located up to hundreds of kilobases distant from this locus. Mutations in this gene or in the enhancer regions can cause ocular disorders such as aniridia and Peter's anomaly. Use of alternate promoters and alternative splicing results in multiple transcript variants encoding different isoforms. Interestingly, inclusion of a particular alternate coding exon has been shown to increase the length of the paired box domain and alter its DNA binding specificity. Consequently, isoforms that carry the shorter paired box domain regulate a different set of genes compared to the isoforms carrying the longer paired box domain. [provided by RefSeq, Mar 2019]"
+          }
+        ],
+        "swiss_prot_accessions": [
+          "P26367"
+        ],
+        "ensembl_gene_ids": [
+          "ENSG00000007372"
+        ],
+        "omim_ids": [
+          "607108"
+        ],
+        "nomenclature_authority": {
+          "authority": "HGNC",
+          "identifier": "HGNC:8620"
+        },
+        "transcript_count": 53,
+        "protein_count": 51
+      }
+    }
+  ]
+}
